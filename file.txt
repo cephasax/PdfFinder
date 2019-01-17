@@ -1,41 +1,10 @@
 
-Document: Aditamento ao BG n° 111, de 15 de junho de 2018.pdf 
-Document: BG nº 081, de 02 de maio de 2018.pdf 
-Document: BG nº 082, de 03 de maio de 2018.pdf pg= 30pg= 30
-Document: BG nº 083, de 04 de maio de 2018.pdf 
-Document: BG nº 084, de 07 de maio de 2018.pdf 
-Document: BG nº 085, de 08 de abril de 2018.pdf 
-Document: BG nº 086, de 09 de maio de 2018.pdf 
-Document: BG nº 087, de 10 de maio de 2018.pdf 
-Document: BG nº 088, de 11 de maio de 2018.pdf 
-Document: BG nº 089, de 14 de maio de 2018.pdf 
-Document: BG nº 090, de 15 de maio de 2018.pdf 
-Document: BG nº 091, de 16 de maio de 2018.pdf 
-Document: BG nº 092, de 17 de maio de 2018.pdf 
-Document: BG nº 093, de 18 de maio de 2018.pdf 
-Document: BG nº 094, de 21 de maio de 2018.pdf 
-Document: BG nº 095, de 22 de maio de 2018.pdf 
-Document: BG nº 096, de 23 de maio de 2018.pdf 
-Document: BG nº 097, de 24 de maio de 2018.pdf 
-Document: BG nº 098, de 25 de maio de 2018.pdf 
-Document: BG nº 099, de 28 de maio de 2018.pdf 
-Document: BG nº 100, de 29 de maio de 2018.pdf 
-Document: BG nº 101, de 30 de maio de 2018.pdf 
-Document: BG nº 102, de 04 de junho de 2018.pdf 
-Document: BG nº 103, de 05 de junho de 2018.pdf 
-Document: BG nº 104, de 06 de junho de 2018.pdf 
-Document: BG nº 105, de 07 de junho de 2018.pdf 
-Document: BG nº 106, de 08 de junho de 2018.pdf 
-Document: BG nº 107, de 11 de junho de 2018.pdf 
-Document: BG nº 108, de 12 de junho de 2018.pdf 
-Document: BG nº 109, de 13 de junho de 2018.pdf 
-Document: BG nº 110, de 14 de junho de 2018.pdf 
-Document: BG nº 111, de 15 de junho de 2018.pdf 
-Document: BG nº 112, de 18 de junho de 2018.pdf pg= 3
-Document: BG nº 113, de 19 de junho de 2018.pdf 
-Document: BG nº 114, de 20 de junho de 2018.pdf 
-Document: BG nº 115, de 21 de junho de 2018.pdf 
-Document: BG nº 116, de 25 de junho de 2018.pdf 
-Document: BG nº 117, de 26 de junho de 2018.pdf 
-Document: BG nº 118, de 27 de junho de 2018.pdf 
-Document: BG nº 119, de 28 de junho de 2018.pdf 
+Document: BG n° 203, de 06 de novembro de 2018.pdf 
+Document: BG nº 201, de 01 de novembro de 2018.pdf 
+Document: BG nº 202, de 05 de novembro de 2018.pdf 
+Document: BG nº 204, de 07 de novembro de 2018.pdf 
+Document: BG nº 205, de 08 de novembro de 2018.pdf 
+Document: BG nº 206, de 09 de novembro de 2018.pdf 
+Document: BG nº 207, de 12 de novembro de 2018.pdf 
+Document: BG nº 208, de 13 de novembro de 2018.pdf 
+Document: BG nº 209, de 14 de novembro de 2018.pdf 
